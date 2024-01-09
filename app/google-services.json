@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "545289367632",
+    "firebase_url": "https://gb-chat-abafe-default-rtdb.firebaseio.com",
+    "project_id": "gb-chat-abafe",
+    "storage_bucket": "gb-chat-abafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545289367632:android:f04b48efdc27ee5c306155",
+        "android_client_info": {
+          "package_name": "com.example.gbchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545289367632-hpv249okob2d0mjj57fb9qjb7chigd13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_7gJQXbHhho-Wy0S9Ey1nbtxeHxTKQYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545289367632-hpv249okob2d0mjj57fb9qjb7chigd13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
